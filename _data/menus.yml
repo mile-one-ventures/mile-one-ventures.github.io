@@ -8,7 +8,7 @@ topmenu:
   url: "about/"
   
 - title: Blog
-url: "Categories/"
+url: "categories/"
 
 - title: Contact
   url: "contact/"
