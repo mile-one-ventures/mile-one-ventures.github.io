@@ -6,6 +6,9 @@ topmenu:
 
 - title: About
   url: "about/"
+  
+- title: Blog
+url: "Categories/"
 
 - title: Contact
   url: "contact/"
