@@ -2,7 +2,7 @@ title: "Affiliates"
 email: wowthemesnet@gmail.com
 timezone: UTC
 baseurl: ""
-url: "https://www.mileoneventures.co.uk/"
+url: "https://www.mileoneventures.co.uk"
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
