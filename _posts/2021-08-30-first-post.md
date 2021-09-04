@@ -3,7 +3,7 @@ layout: post
 title:  "We all wait for summer"
 author: john
 categories: [ Jekyll, tutorial ]
-image: assets/images/hello.jpeg
+image: assets/images/hello-post.jpeg
 featured: true
 ---
 
