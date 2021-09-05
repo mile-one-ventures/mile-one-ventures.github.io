@@ -19,7 +19,3 @@ div.mc-field-group input {
     border-radius: 3px;
 }
 
-/* Small devices (landscape phones, 544px and up) */
-@media (min-width: 544px) {  
-  h1 {font-size:1.5rem;} /*1rem = 16px*/
-}
