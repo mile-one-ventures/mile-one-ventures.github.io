@@ -156,13 +156,9 @@ small, .small {
 @media only screen and (max-width: 767px) {
     .page-header.big {
         font-size:2.5em;
+	h1: 1.5em;
     }
-	
-/* Small devices (landscape phones, 544px and up) */
-@media (max-width: 767px) {  
-  .hero h1 {font-size:1.5rem;} /*1rem = 16px*/
 }
-	}
 .google-auto-placed {
     margin-bottom:2rem;
 } 
