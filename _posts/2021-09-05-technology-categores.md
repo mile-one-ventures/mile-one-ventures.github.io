@@ -40,4 +40,4 @@ If you have an incredible product or service and you want to reach new audiences
 ### Help Desk Software
 Help desk software is the heartbeat of a well-run help desk and is a vital consideration for business owners. These tools can capture any complaint or query, no matter which channel is used to communicate it and help you keeps your customers happy with swift responses. 
 ### Sales Automation Software
-Sales automation software uses preconfigured processes and/or artificial intelligence (AI) to automate tasks specific to the sales pipeline.
+Sales automation software uses preconfigured processes and/or artificial intelligence (AI) to automate tasks specific to the sales pipeline..
