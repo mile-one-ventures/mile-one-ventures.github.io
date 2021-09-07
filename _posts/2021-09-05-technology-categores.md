@@ -7,10 +7,9 @@ image: assets/images/options.jpeg
 featured: false
 
 ---
-## What categories to consider
+## What categories to consider?
 
-There are hundreds, if not thousands of software providers to navigate when it comes to small business software. However software for small businesses falls into a smaller number of categories which are listed below. 
-https://financesonline.com/software-for-small-business/
+There are hundreds, if not thousands of software providers to choose from when it comes to small business software. Categories to consider include:
 
 ### Accounting software
 A good small business accounting website can provide information in seconds that will help you answer questions such as; Are we profitable? Why or why not? Can we make required tax payments? Should we invest in new equipment? Do we need to explore financing? Will we hit our budget numbers? Where can we cut expenses?
