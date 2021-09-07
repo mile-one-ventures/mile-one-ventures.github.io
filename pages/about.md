@@ -6,9 +6,9 @@ image: assets/images/about-hero.jpeg
 
 ---
 
-My mission is to help with the adoption of technology by micro-businesses by providing impartial reviews, information and sign posting. Here is a summary about why...
+My mission is to help with the adoption of technology by micro-businesses by providing impartial reviews, information and sign posting. Here is why...
 
-The UK has a longstanding productivity challenge; even before the financial crisis labour productivity was on average 13% higher in the rest of the G7 countries compared to the UK.5 6 This 'Productivity Gap' has since been exacerbated by the UK's unusually weak productivity growth since the financial crisis in 2007-2008
+The UK has a longstanding productivity challenge; even before the financial crisis labour productivity was on average 13% higher in the rest of the G7 countries compared to the UK.5 6 This 'Productivity Gap' has since been exacerbated by the UK's unusually weak productivity growth since the financial crisis in 2007-2008.
 
 Research commissioned from the Enterprise Research Centre (ERC) has shown that adoption of a range of basic technologies is associated with a productivity improvement of between 7% to 18%, depending on the technology. This is further backed by ONS analysis which shows the use of two or more business management technologies is associated with productivity gains of up to 25%. These technologies include accountancy software, customer relationship management systems (CRM), supply change management and enterprise resource planning software.
 
