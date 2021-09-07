@@ -6,7 +6,7 @@ image: assets/images/about-hero.jpeg
 
 ---
 
-My mission is to help with the adoption of technology by micro-businesses by providing impartial reviews, information and sign posting. Here is why...
+My mission is to help with the adoption of technology by micro-businesses by providing impartial reviews, information and sign posting. Here's why...
 
 The UK has a longstanding productivity challenge; even before the financial crisis labour productivity was on average 13% higher in the rest of the G7 countries compared to the UK.5 6 This 'Productivity Gap' has since been exacerbated by the UK's unusually weak productivity growth since the financial crisis in 2007-2008.
 
