@@ -18,3 +18,9 @@ div.mc-field-group input {
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+
+@media (max-width: 767px) {
+    .img.hero {
+        display: none;
+    }
+}
