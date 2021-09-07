@@ -20,7 +20,7 @@ div.mc-field-group input {
 }
 
 @media (max-width: 767px) {
-    .img.hero {
+    img.hero {
         display: none;
     }
 }
