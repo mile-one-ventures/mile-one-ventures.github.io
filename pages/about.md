@@ -2,7 +2,7 @@
 layout: page
 title: About Mile One Ventures
 permalink: "/about/"
-image: assets/images/about-hero.png
+image: assets/images/about-hero.jpeg
 
 ---
 
