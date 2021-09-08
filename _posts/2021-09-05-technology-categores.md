@@ -7,7 +7,7 @@ image: assets/images/options.jpeg
 featured: false
 
 ---
-## What categories to consider?
+## Categories to consider
 
 There are hundreds, if not thousands of software providers to choose from when it comes to small business software. Categories to consider include:
 
