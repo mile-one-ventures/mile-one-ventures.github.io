@@ -21,6 +21,9 @@ footermenu:
 
 - title: Privacy Policy
   url: "privacy-policy/"
+  
+  - title: Cookies
+  url: "cookies/"
 
 - title: Contact
   url: "contact/"
