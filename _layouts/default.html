@@ -112,6 +112,7 @@ gtag('config', '{{site.ganalytics}}');
     <div class="copyright small">
        Copyright © {{site.title}}. All rights reserved.
     </div>
+    {% include cookie-consent.html %}
 </footer>
   
 
@@ -120,9 +121,6 @@ gtag('config', '{{site.ganalytics}}');
 <script src="{{ site.baseurl }}/assets/js/jquery.min.js"></script>   
 <script src="{{ site.baseurl }}/assets/js/bootstrap.min.js"></script>   
 <script src="{{ site.baseurl }}/assets/js/theme.js"></script>    
-    
-   <div> {% include cookie-consent.html %}
-    </div>
     
 </body>
     
