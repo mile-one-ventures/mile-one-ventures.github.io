@@ -8,7 +8,7 @@ featured: false
 
 ---
 
-###How to get the most from your email
+## How to get the most from your email
 
 The average worker spends [28% of the work day reading and answering email](https://www.mckinsey.com/industries/high-tech/our-insights/the-social-economy), according to a McKinsey analysis. That amounts to a staggering 2.6 hours per day.
 
