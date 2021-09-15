@@ -8,8 +8,6 @@ featured: false
 
 ---
 
-Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/email?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
-
 The average worker spends [28% of the work day reading and answering email](https://www.mckinsey.com/industries/high-tech/our-insights/the-social-economy), according to a McKinsey analysis. That amounts to a staggering 2.6 hours per day.
 
 If you feel like you are spending too much time in your inbox here are some tips and tricks so you can be more efficient with your email.
@@ -36,3 +34,5 @@ To streamline your emails even further, use rules in your email to automatically
 If new customer queries are a large percentage of your inbox and you have a manual process for taking action on these new queries it might be time to consider a new workflow. Tools like [Streak](https://www.streak.com/) can help you build a new workflow that put new customer queries into a sales pipeline automatically and keeps everything in your inbox.
 
 I hope some of these tips help you spend less time managing your email.
+
+Photo by [Brett Jordan](https://unsplash.com/@brett_jordan?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/email?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
